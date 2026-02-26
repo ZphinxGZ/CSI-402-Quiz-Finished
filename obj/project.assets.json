@@ -8,24 +8,31 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/myche/.nuget/packages/": {}
+    "C:\\Users\\ZphinxGz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Quiz_5070_Kunakorn.csproj",
+      "projectUniqueName": "C:\\Users\\ZphinxGz\\Desktop\\Au\\GH\\CSI-402-Quiz-Finished\\Quiz_5070_Kunakorn.csproj",
       "projectName": "Quiz_5070_Kunakorn",
-      "projectPath": "/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Quiz_5070_Kunakorn.csproj",
-      "packagesPath": "/Users/myche/.nuget/packages/",
-      "outputPath": "/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/obj/",
+      "projectPath": "C:\\Users\\ZphinxGz\\Desktop\\Au\\GH\\CSI-402-Quiz-Finished\\Quiz_5070_Kunakorn.csproj",
+      "packagesPath": "C:\\Users\\ZphinxGz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZphinxGz\\Desktop\\Au\\GH\\CSI-402-Quiz-Finished\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/myche/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ZphinxGz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

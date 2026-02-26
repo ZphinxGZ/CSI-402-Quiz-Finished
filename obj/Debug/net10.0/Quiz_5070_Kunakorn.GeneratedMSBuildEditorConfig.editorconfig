@@ -11,69 +11,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Quiz_5070_Kunakorn
 build_property.RootNamespace = Quiz_5070_Kunakorn
-build_property.ProjectDir = /Users/myche/Desktop/402 66075070/Quiz1-CSI-402/
+build_property.ProjectDir = C:\Users\ZphinxGz\Desktop\Au\GH\CSI-402-Quiz-Finished\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/myche/Desktop/402 66075070/Quiz1-CSI-402
+build_property.MSBuildProjectDirectory = C:\Users\ZphinxGz\Desktop\Au\GH\CSI-402-Quiz-Finished
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Account/StudentList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TdHVkZW50TGlzdC5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Account/StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdHVkZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Shared/_BlankLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CbGFua0xheW91dC5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Shared/_StudentLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdHVkZW50TGF5b3V0LmNzaHRtbA==
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Student/CalculateForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9DYWxjdWxhdGVGb3JtLmNzaHRtbA==
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Student/CalculateForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDYWxjdWxhdGVGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Student/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9JbmRleC5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Student/MyDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9NeURldGFpbHMuY3NodG1s
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Student/MyDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxNeURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/myche/Desktop/402 66075070/Quiz1-CSI-402/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-hn05j4oi4k
+[C:/Users/ZphinxGz/Desktop/Au/GH/CSI-402-Quiz-Finished/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dq2gh9yctk
